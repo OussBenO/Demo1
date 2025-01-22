@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.4.2"
+    "vite": "^5.4.12"
   },
   "dependencies": {
-    "react-pdf": "^7.7.0",
+    "react-pdf": "^9.2.1",
     "vite-starter": "file:"
   }
 }
